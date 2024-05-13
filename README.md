@@ -1,6 +1,8 @@
 # BERESTA-4
 Проект одноплатного четырехбитного компьютера на 155 серии времен СССР. [Статья](https://www.youtube.com/watch?v=BHI0DK1IGjk). [Видео](https://www.youtube.com/watch?v=BHI0DK1IGjk).
 
+Подробнее о проекте: https://habr.com/ru/articles/813719/
+
 Содержание архива:
 папка КАнютаASM - компилятор (исходник на Python, примеры)
 
